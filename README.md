@@ -13,7 +13,6 @@
     <a href="https://www.linkedin.com/in/yohran-ferrari-7138bb234/">
   <img align="center" alt="Linkedin" height="40" width="150" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
       <a href="https://www.linkedin.com/in/yohran-ferrari-7138bb234/">
-  <img align="center" alt="Linkedin" height="40" width="150" src="https://yt3.ggpht.com/qMPyLWsg6kipqVXeVUmusXfNABJGAWignNcYfS7jlEXLsD44PU3dVSFlf8e4sMXTAJKExbDREw=s900-c-k-c0x00ffffff-no-rj">  
   </div>
   
     
