@@ -1,8 +1,5 @@
 ### Olá 👋
 
-- 🔭 Procurando uma oportunidade em uma nova área!
-- 🌱 Cursando Ánalise e Desenvolvimento de Sistemas, Estudando JAVA,HTML,CSS e Inglês.
-
 <div align="center">
   <a href="https://github.com/YohranFerrari">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=YohranFerrari&theme=blue-green"/>
